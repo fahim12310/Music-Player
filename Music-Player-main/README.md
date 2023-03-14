@@ -1,7 +1,3 @@
 # Music-Player with JavaScript
 
-Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+Created a music player with JavaScript that includes some cool features. Planning to improve the music player in the furture. For now, this is how it looks like initially.
